@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Quiz01.UI_Console": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
